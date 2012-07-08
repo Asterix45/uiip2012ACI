@@ -1,0 +1,2 @@
+May 30, 2010 12:07:49 AM  
+FINER: {tipoDataSource=semplice, password=oracle, userName=antonio, driver=oracle.jdbc.driver.OracleDriver, databaseUri=jdbc:oracle:thin:@//143.225.229.94:1521/orcl}
